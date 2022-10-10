@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* import custom font */
+@font-face {
+  font-family: 'chiniser';
+  src: url('./assets/fonts/chiniser.TTF');
+}
